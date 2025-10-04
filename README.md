@@ -70,14 +70,11 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofcoursenotcoding1&layout=compact&theme=radical" width="49%" alt="top languages"/>
-<img src="https://github-readme-stats.vercel.app/api?username=ofcoursenotcoding1&show_icons=true&theme=radical&count_private=true" width="49%" alt="stats"/>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ofcoursenotcoding1&show_icons=true&locale=en&layout=compact" alt="ofcoursenotcoding1" /></p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ofcoursenotcoding1&theme=radical&hide_border=true" width="80%" alt="streak stats"/>
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ofcoursenotcoding1&show_icons=true&locale=en" alt="ofcoursenotcoding1" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ofcoursenotcoding1&" alt="ofcoursenotcoding1" /></p>
 
 ---
 
