@@ -92,4 +92,3 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer" alt="footer"/>
 </p>
 
-⭐ *“Learning never exhausts the mind — Leonardo da Vinci… at least that’s what I read in his biography!”*
